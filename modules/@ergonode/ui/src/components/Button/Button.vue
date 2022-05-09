@@ -151,10 +151,16 @@ export default {
     }
   }
 
+  &--primary {
+    color: $WHITE;
+  }
+
+  &--destructive {
+    color: $GRAPHITE_DARK;
+  }
+
   &--primary,
   &--destructive {
-    color: $WHITE;
-
     &:disabled {
       background-color: $GREY;
     }

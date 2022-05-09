@@ -115,7 +115,7 @@ export default {
       bottom: 7px;
       width: 16px;
       height: 1px;
-      background-color: $GRAPHITE_DARK;
+      background-color: $WHITE;
       content: "";
     }
   }
@@ -127,7 +127,7 @@ export default {
 
   &--selected {
     background-color: $BLOOM;
-    color: $WHITE;
+    color: $GRAPHITE_DARK;
 
     &::after {
       background-color: $WHITE;

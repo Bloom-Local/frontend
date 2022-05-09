@@ -217,7 +217,7 @@ export default {
     box-shadow: $ELEVATOR_HOLE;
 
     span {
-      color: $WHITE;
+      color: $GRAPHITE_DARK;
     }
   }
 }

@@ -31,7 +31,7 @@ export default {
   box-sizing: border-box;
   background-color: $BLOOM;
   box-shadow: $ELEVATOR_HOLE;
-  color: $WHITE;
+  color: $GRAPHITE_DARK;
   font: $FONT_BOLD_12_16;
   text-transform: uppercase;
   padding-left: 12px;

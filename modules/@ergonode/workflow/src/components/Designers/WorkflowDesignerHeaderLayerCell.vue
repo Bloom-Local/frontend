@@ -123,7 +123,7 @@ export default {
   &--ghost {
     background-color: $BLOOM;
     box-shadow: $ELEVATOR_HOLE;
-    color: $WHITE;
+    color: $GRAPHITE_DARK;
   }
 
   &__title {

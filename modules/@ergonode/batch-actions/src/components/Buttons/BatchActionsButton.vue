@@ -92,7 +92,7 @@ export default {
   border-radius: 8px;
   box-sizing: border-box;
   background-color: $BLOOM_DARK;
-  color: $WHITE;
+  color: $GRAPHITE_DARK;
   font: $FONT_SEMI_BOLD_10_12;
 }
 </style>

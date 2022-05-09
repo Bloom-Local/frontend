@@ -44,6 +44,6 @@ export default {
 
 .badge--primary {
   background-color: $BLOOM;
-  color: $WHITE;
+  color: $GRAPHITE_DARK;
 }
 </style>

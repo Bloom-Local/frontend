@@ -413,7 +413,7 @@ export default {
     #{$filter}__placeholder,
     #{$filter}__value,
     #{$filter}__parameter {
-      color: $WHITE;
+      color: $GRAPHITE_DARK;
     }
   }
 

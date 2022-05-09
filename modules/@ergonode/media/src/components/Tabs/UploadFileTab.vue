@@ -208,7 +208,7 @@ export default {
       background-color: $BLOOM;
 
       #{$upload-file-tab}__label .information-label {
-        color: $WHITE;
+        color: $GRAPHITE_DARK;
       }
     }
   }

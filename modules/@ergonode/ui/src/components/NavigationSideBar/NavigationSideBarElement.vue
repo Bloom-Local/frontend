@@ -106,7 +106,7 @@ export default {
     background-color: $BLOOM;
 
     #{$element}__title {
-      color: $WHITE;
+      color: $GRAPHITE_DARK;
     }
   }
 
@@ -118,7 +118,7 @@ export default {
 
   &--hovered {
     #{$element}__title {
-      color: $WHITE;
+      color: $GRAPHITE_DARK;
     }
   }
 

@@ -116,10 +116,10 @@ export default {
 
   &--selected {
     background-color: $BLOOM;
-    color: $WHITE;
+    color: $GRAPHITE_DARK;
 
     .link-text {
-      color: $WHITE;
+      color: $GRAPHITE_DARK;
     }
   }
 }
