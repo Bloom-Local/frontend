@@ -65,7 +65,8 @@ import { ARROW } from "@Core/defaults/icons";
 import {
   GREEN,
   GREY_DARK,
-  WHITE
+  WHITE,
+  BLOOM
 } from "@UI/assets/scss/_js-variables/colors.scss";
 import NavigationSideBarGroupElement from "@UI/components/NavigationSideBar/NavigationSideBarGroupElement";
 
