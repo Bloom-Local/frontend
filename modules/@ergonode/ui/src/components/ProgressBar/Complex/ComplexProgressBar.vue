@@ -114,7 +114,7 @@ export default {
   }
 
   &__label {
-    color: $GREY;
+    color: $GRAPHITE_DARK;
     font: $FONT_MEDIUM_12_16;
   }
 

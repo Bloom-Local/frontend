@@ -16,7 +16,10 @@ license details. */
 </template>
 
 <script>
-import { GRAPHITE_COAL } from "@UI/assets/scss/_js-variables/colors.scss";
+import {
+  GRAPHITE_COAL,
+  WHITE
+} from "@UI/assets/scss/_js-variables/colors.scss";
 import DoughnutChart from "@UI/components/Charts/DoughnatChart";
 
 export default {
@@ -93,7 +96,7 @@ export default {
   }
 
   &__title {
-    color: $GRAPHITE_DARK;
+    color: $WHITE;
     font: $FONT_SEMI_BOLD_40_48;
   }
 

@@ -45,7 +45,7 @@ export default {
 
   &:hover,
   &--selected {
-    background-color: $WHITE;
+    background-color: $WHITESMOKE;
   }
 }
 </style>

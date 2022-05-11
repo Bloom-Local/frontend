@@ -13,7 +13,10 @@ license details. */
         v-text="capitalizedUserFirstName || capitalizedUserLastName"
       />
       <div class="icon-wrapper">
-        <IconArrowDropdown :fill-color="whiteColor" :state="arrowIconState" />
+        <IconArrowDropdown
+          :fill-color="greyLightColor"
+          :state="arrowIconState"
+        />
       </div>
     </template>
     <template #dropdown>
@@ -27,7 +30,7 @@ import UserFabAvatar from "@Core/components/Multimedia/UserFabAvatar";
 import ToolBarUserSelectContent from "@Core/components/ToolBar/ToolBarUserSelectContent";
 import { ARROW } from "@Core/defaults/icons";
 import { toCapitalize } from "@Core/models/stringWrapper";
-import { WHITE } from "@UI/assets/scss/_js-variables/colors.scss";
+import { GREY_LIGHT } from "@UI/assets/scss/_js-variables/colors.scss";
 import { mapState } from "vuex";
 
 export default {
@@ -48,8 +51,8 @@ export default {
         ? this.user.avatarFilename.split(".")[0]
         : "";
     },
-    whiteColor() {
-      return WHITE;
+    greyLightColor() {
+      return GREY_LIGHT;
     },
     arrowIconState() {
       return this.isFocused ? ARROW.UP : ARROW.DOWN;

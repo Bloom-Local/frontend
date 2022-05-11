@@ -115,7 +115,7 @@ export default {
     }
 
     #{$element}__dot {
-      background-color: $WHITE;
+      background-color: $BLOOM;
     }
   }
 

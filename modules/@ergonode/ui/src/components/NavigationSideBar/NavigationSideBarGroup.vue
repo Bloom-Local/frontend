@@ -126,9 +126,7 @@ export default {
       return this.route.group.icon || null;
     },
     listIconFillColor() {
-      return this.isSelected || this.isHovered || this.isGroupActivated
-        ? BLOOM
-        : WHITE;
+      return BLOOM;
     },
     dropdownIconFillColor() {
       return this.isSelected || this.isHovered || this.isGroupActivated
