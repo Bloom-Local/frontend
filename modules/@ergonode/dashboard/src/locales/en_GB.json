@@ -7,7 +7,7 @@
     },
     "dashboard": {
       "_": {
-        "headTitle": "Dashboard - Ergonode"
+        "headTitle": "Dashboard - Bloom Local"
       },
       "components": {
         "EmptyDashboardPage": {
