@@ -27,7 +27,7 @@ module.exports = {
         htmlAttrs: {
             lang: 'en',
         },
-        title: 'Ergonode',
+        title: 'Bloom Local',
         meta: [
             {
                 charset: 'utf-8',
