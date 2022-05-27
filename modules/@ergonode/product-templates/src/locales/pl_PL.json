@@ -16,7 +16,7 @@
     "productTemplate": {
       "_": {
         "title": "Szablony produktowe",
-        "headTitle": "Szablony produktowe - Ergonode",
+        "headTitle": "Szablony produktowe - Bloom Local",
         "noTemplate": "Brak szablonów produktowych",
         "createFirst": "W systemie nie ma szablonów produktowych, stwórz pierwszy.",
         "types": {
