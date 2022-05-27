@@ -16,7 +16,7 @@
     "productTemplate": {
       "_": {
         "title": "Product templates",
-        "headTitle": "Product templates - Ergonode",
+        "headTitle": "Product templates - Bloom Local",
         "noTemplate": "No product templates",
         "createFirst": "There are no product templates in the system, so you can add the first one.",
         "types": {
