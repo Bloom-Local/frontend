@@ -16,7 +16,7 @@
     "import": {
       "_": {
         "title": "Import profiles",
-        "headTitle": "Import profiles - Ergonode",
+        "headTitle": "Import profiles - Bloom Local",
         "noImportProfile": "No import profiles",
         "createFirst": "There are no import profiles in the system, so you can add the first one."
       },
