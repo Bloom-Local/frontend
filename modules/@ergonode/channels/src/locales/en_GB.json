@@ -17,7 +17,7 @@
     "channel": {
       "_": {
         "title": "Channels",
-        "headTitle": "Channels - Ergonode",
+        "headTitle": "Channels - Bloom Local",
         "noChannel": "No channels",
         "createFirst": "There are no channels in the system, you can add the first one."
       },
