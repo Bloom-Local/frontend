@@ -17,7 +17,7 @@
     "role": {
       "_": {
         "title": "Role użytkownika",
-        "headTitle": "Role użytkownika - Ergonode",
+        "headTitle": "Role użytkownika - Bloom Local",
         "noRoles": "Brak roli użytkownika",
         "createFirst": "W systemie nie ma roli, stwórz pierwszą."
       },
