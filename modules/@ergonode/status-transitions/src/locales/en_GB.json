@@ -16,7 +16,7 @@
     "transition": {
       "_": {
         "title": "Status transitions",
-        "headTitle": "Status transitions - Ergonode"
+        "headTitle": "Status transitions - Bloom Local"
       },
       "components": {
         "CreateStatusTransitionButton": {
