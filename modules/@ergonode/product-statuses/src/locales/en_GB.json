@@ -16,7 +16,7 @@
     "productStatus": {
       "_": {
         "title": "Product statuses",
-        "headTitle": "Product statuses - Ergonode",
+        "headTitle": "Product statuses - Bloom Local",
         "noProductStatus": "No product statuses",
         "createFirst": "There are no product statuses in the system, so you can add the first one."
       },
