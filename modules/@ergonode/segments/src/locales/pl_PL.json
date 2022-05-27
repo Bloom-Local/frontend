@@ -17,7 +17,7 @@
     "segment": {
       "_": {
         "title": "Segmenty",
-        "headTitle": "Segmenty - Ergonode",
+        "headTitle": "Segmenty - Bloom Local",
         "noSegments": "Brak segmentów",
         "createFirst": "W systemie nie ma segmentów, dodaj pierwszy."
       },
