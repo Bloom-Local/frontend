@@ -16,7 +16,7 @@
     "transition": {
       "_": {
         "title": "Tranzycje warunku",
-        "headTitle": "Tranzycje warunku - Ergonode"
+        "headTitle": "Tranzycje warunku - Bloom Local"
       },
       "components": {
         "CreateStatusTransitionButton": {
